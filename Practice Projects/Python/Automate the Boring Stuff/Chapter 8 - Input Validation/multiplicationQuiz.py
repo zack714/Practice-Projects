@@ -33,3 +33,5 @@ for questionNumber in range(numOfQuestions):
         time.sleep(1) #Brief pause to let user see the result.
         print('Score %s / %s' % (correctAns,numOfQuestions))
 
+        
+
