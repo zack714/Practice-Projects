@@ -1,4 +1,5 @@
 #! python3
+#8/4/2025
 # mcb.pyw - Saves and loads parts of text to the cipboard
 #Usage: py.exe mcb.pyw save <keyword> - Loads keyword to clipbaord.
 #       py.exe mcb.pyw <keyword> - loads keyword to clipboard
